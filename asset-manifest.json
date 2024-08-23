@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vmeet/static/css/main.3e50129c.css",
+    "main.js": "/vmeet/static/js/main.93575ae4.js",
+    "static/js/453.104cf927.chunk.js": "/vmeet/static/js/453.104cf927.chunk.js",
+    "index.html": "/vmeet/index.html",
+    "main.3e50129c.css.map": "/vmeet/static/css/main.3e50129c.css.map",
+    "main.93575ae4.js.map": "/vmeet/static/js/main.93575ae4.js.map",
+    "453.104cf927.chunk.js.map": "/vmeet/static/js/453.104cf927.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e50129c.css",
+    "static/js/main.93575ae4.js"
+  ]
+}
